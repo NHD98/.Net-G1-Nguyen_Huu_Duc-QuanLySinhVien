@@ -1,0 +1,17 @@
+C:\Users\TaiNS\source\repos\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe.config
+C:\Users\TaiNS\source\repos\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe
+C:\Users\TaiNS\source\repos\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.pdb
+C:\Users\TaiNS\source\repos\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csprojAssemblyReference.cache
+C:\Users\TaiNS\source\repos\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.Form1.resources
+C:\Users\TaiNS\source\repos\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.Properties.Resources.resources
+C:\Users\TaiNS\source\repos\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.GenerateResource.cache
+C:\Users\TaiNS\source\repos\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.CoreCompileInputs.cache
+C:\Users\TaiNS\source\repos\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.exe
+C:\Users\TaiNS\source\repos\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.pdb
+C:\Users\TaiNS\source\repos\QuanLySinhVien\QuanLySinhVien\bin\Debug\EntityFramework.dll
+C:\Users\TaiNS\source\repos\QuanLySinhVien\QuanLySinhVien\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\TaiNS\source\repos\QuanLySinhVien\QuanLySinhVien\bin\Debug\EntityFramework.xml
+C:\Users\TaiNS\source\repos\QuanLySinhVien\QuanLySinhVien\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\TaiNS\source\repos\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.CopyComplete
+C:\Users\TaiNS\source\repos\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.ThemSinhVien.resources
+C:\Users\TaiNS\source\repos\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.Migrations.SinhVienDb.resources
